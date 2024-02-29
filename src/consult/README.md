@@ -69,7 +69,7 @@ title: 醒醒的产品服务清单
 
 [这才叫长了嘴的人](https://mp.weixin.qq.com/s/qPVHtc4wUmhMwDbARR_76A)
 
-<center>产品海报详解</center>
-<center>▼</center>
+<div align=center>产品海报详解</div>
+<div align=center>▼</div>
 
 ![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/posterone.jpeg)
