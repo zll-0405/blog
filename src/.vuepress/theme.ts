@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "醒醒同学",
-    url: "https://mister-hope.com",
+    url: "https://mp.weixin.qq.com/s/ggH-_fx66ud-P0d707F5AQ",
   },
 
   iconAssets: "fontawesome-with-brands",
