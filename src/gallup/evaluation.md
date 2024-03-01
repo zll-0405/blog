@@ -36,44 +36,44 @@ shortTitle: 测评注意事项
 
 1. 联系醒醒（微信号：`rabbit_xing7`），微信支付410元或扫描下方二维码（`官网价格445元`），和官方测评完全一样（`410元这个价格只要官方不涨价我也不涨，最新价格会在评论区补充`）
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/0.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-0.png)
 
 2. 醒醒代购完测评码，将测评码发到你的微信。
 
 目前我已协助超过2000+用户完成了测评，完全可以放心渠道，必须是官网正版～
 
-![（你获得的是这个测评码）](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/1.png)
+![（你获得的是这个测评码）](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-1.png)
 
 ## 测评码兑换流程（必看）
 ⭕️第一步：登陆盖洛普官网，注册账号，
 
 （1）打开网址：[https://my.gallup.com/](https://my.gallup.com/)
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/2.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-2.png)
 
 （2）点击“创建账户”
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/3.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-3.png)
 
 ⭕️第二步：填写账号注册信息
 
 注意：如果之前测试过，请使用一个新邮箱重新注册账号，再兑换测评码。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/4.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-4.png)
 
 ⭕️第三步：登陆账号，点击「菜单-兑换访问代码」，输入从醒醒那里获取的“测评码”
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/5.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-5.png)
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/6.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-6.png)
 
 ⭕️第四步：
 
 出现下方这个“参加克利夫顿评估”后，即可开始测试，记得在网页右上角选“简体中文”。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/7.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-7.png)
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/8.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-8.png)
 
 ⭕️第五步：开始测评，完成 177 道题目，每道题20秒（务必回顾一下文章开头的测评注意事项）
 
@@ -81,7 +81,7 @@ shortTitle: 测评注意事项
 
 如果你是用手机测试，很可能会看到下图那样，选项挤在一起。但在电脑端则是很清晰分明的（我做了一个对比图）。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/9.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-9.png)
 
 示范：如果你觉得“有钱就是幸福”非常符合你的认知，那么就选左1；如果你觉得有点符合，选左2；如果你觉得两边都挺符合，没有偏好，则选“中立”。
 
@@ -89,31 +89,25 @@ shortTitle: 测评注意事项
 
 （1）测评完成后，点击“菜单”-“克利夫顿优势”，点击后鼠标向下滑动。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/10.png)        
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-10.png)        
 
 （2）看到报告后，点击下方任意一个红框，如“查看我的报告”，
 
 以“醒醒”为例，左边彩色的图是醒醒的 34 项才干分布图，点击右边红框内的“查看我的报告”，可查看完整版的优势报告。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/11.png)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-11.png)
 
 （3）点击红框内的“下载报告”。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/12.png)
-
-         
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-12.png)   
 
 （4）点击右上角“下载按钮”，完成下载。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/13.png)
-
-         
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-13.png)
 
 （5）下载完成后，你将会得到一个 24 页的优势报告，这个报告约等于一个入门解读，图为报告21页&22页内容。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/14.png)
-
-
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/evaluation-14.png)
 
 ## 优势报告解读预约&流程（必看）
 

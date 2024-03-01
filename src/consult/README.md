@@ -9,7 +9,7 @@ title: 醒醒的产品服务清单
 
 ## 01 优势/个人成长咨询
 
-[盖洛普测评&解读流程及注意事项详解](https://mp.weixin.qq.com/s/yyZ-WKi1JS-koi9yVy32NQ)
+[盖洛普测评&解读流程及注意事项详解](../gallup/evaluation.md)
 
 ## 02 盖洛普优势测评码代购
 
@@ -35,7 +35,7 @@ title: 醒醒的产品服务清单
 
 ## 03 情侣解读产品
 
-[我从一对情侣用户上学到的相爱之法](https://mp.weixin.qq.com/s/D1AMfwosOTctzNuZiIzIUQ)
+[我从一对情侣用户上学到的相爱之法](../consult/love-method.md)
 
 [我用盖洛普，帮一对情侣，更深入认识了彼此](https://mp.weixin.qq.com/s/3omWe-rr_zSSeDlmvUiTnw)
 
@@ -59,7 +59,7 @@ title: 醒醒的产品服务清单
 
 ## 08 合作课-优势教练训练营
 
-[攻略：如何成为一名合格的优势教练？2.0](https://mp.weixin.qq.com/s/5XW9sxo4qra0MVJbpN2F3A)
+[攻略：如何成为一名合格的优势教练？](../gallup/coach/to-be-a-coach.md)
 
 [一文带你了解盖洛普优势教练是做什么的？](https://mp.weixin.qq.com/s/O4SCbweswSQyEO8YyvUIXA)
 
@@ -72,4 +72,4 @@ title: 醒醒的产品服务清单
 <div align=center>产品海报详解</div>
 <div align=center>▼</div>
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/posterone.jpeg)
+![](http://s9o9530zx.hd-bkt.clouddn.com/logo/posterone.jpeg)

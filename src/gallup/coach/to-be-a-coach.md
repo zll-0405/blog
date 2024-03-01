@@ -12,7 +12,7 @@ shortTitle: 成为优势教练
 
 今天分享如何成为一个“优势教练”，经验来自于我的个人经历，不代表官方或其他教练的立场。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/15.jpeg)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/to-be-a-coach-0.jpeg)
 
 ## 专业方面：
 
@@ -173,6 +173,6 @@ e. 课程优点：
 
 说明：本福利有效期为2023年12月前，后续安排看情况再定。
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/16.jpeg)
+![](http://s9o9530zx.hd-bkt.clouddn.com/gallup/to-be-a-coach-1.jpeg)
 
 3. 如果想在商业化上更进一步，也可以联系我给你推荐适配的课程，这个需要你先说明需求哦。
