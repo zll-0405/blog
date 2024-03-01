@@ -8,7 +8,7 @@ export default defineUserConfig({
   title: "醒醒同学",
   description: "醒醒同学分享的关于自由职业和教练的那些事",
   head: [ 
-    ['link', { rel: 'icon', href: 'http://s9o9530zx.hd-bkt.clouddn.com/logo/logo.jpg' }],
+    ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/zll-0405/image/photo/logo.jpg' }],
   ],
 
   theme,

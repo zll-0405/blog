@@ -18,7 +18,7 @@ shortTitle: 一个相爱之法
 
 今天他俩都给了我反馈，分享给大家：
 
-![（都已获得授权）](http://s9o9530zx.hd-bkt.clouddn.com/consult/love-method-0.jpeg)
+![（都已获得授权）](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/love-method-0.jpeg)
 
 <u>左边的图：女生反馈，主要在对内的觉察和提升上，更主动的去表达需求，提升自己。</u>
 
@@ -68,7 +68,7 @@ shortTitle: 一个相爱之法
 
 最后，上面提到的这几点是我收获最大的几点，非常感谢你在我无助的时候帮助我，醒醒=是真的可以让人清醒起来，有机会要请你吃饭哈哈
 
-![（截取一小部分）](http://s9o9530zx.hd-bkt.clouddn.com/consult/love-method-1.png)
+![（截取一小部分）](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/love-method-1.png)
 
 <u>我又问他还有什么具体的行动变化吗，他回我：</u>
 
@@ -128,4 +128,4 @@ shortTitle: 一个相爱之法
 
 最后放一个用户的赞美吧，虽然浮夸了点，但听着还挺高兴的哈哈哈。只能说，我努力吧，尽力做一个及格的教练吧。
 
-![](http://s9o9530zx.hd-bkt.clouddn.com/consult/love-method-2.png)
+![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/love-method-2.png)

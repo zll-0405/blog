@@ -10,7 +10,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "http://s9o9530zx.hd-bkt.clouddn.com/logo/logo.jpg",
+  logo: "https://cdn.jsdelivr.net/gh/zll-0405/image/photo/logo.jpg",
 
   docsDir: "src",
 
