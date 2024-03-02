@@ -72,4 +72,4 @@ title: 醒醒的产品服务清单
 <div align=center>产品海报详解</div>
 <div align=center>▼</div>
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/posterone.jpeg)
+![](https://vip.helloimg.com/i/2024/03/02/65e2a6bfc7e35.jpeg)

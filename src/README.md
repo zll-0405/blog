@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 
-heroImage: https://cdn.jsdelivr.net/gh/zll-0405/image/photo/logo.jpg
+heroImage: https://vip.helloimg.com/i/2024/03/02/65e2a7e03be1c.jpg
 heroText: 
 tagline: 身体健康，时间自由；<br>帮助他人，体面赚钱；<br>成为专家，积累品牌。
 actions:
@@ -25,4 +25,4 @@ footer: 公众号-醒醒生活记录仪
 
 微信搜 **醒醒生活记录仪** 或扫描下方二维码关注我的原创公众号醒醒生活记录仪
 
-![](https://cdn.jsdelivr.net/gh/zll-0405/image/photo/wechat.jpg)
+![](https://i0.imgs.ovh/2024/03/01/741ou.jpeg)
