@@ -35,9 +35,7 @@ title: 醒醒的产品服务清单
 
 ## 03 情侣解读产品
 
-[我从一对情侣用户上学到的相爱之法](../consult/love-method.md)
-
-[我用盖洛普，帮一对情侣，更深入认识了彼此](https://mp.weixin.qq.com/s/3omWe-rr_zSSeDlmvUiTnw)
+[我从一对情侣用户上学到的相爱之法](../consult/dairy/love-method.md)
 
 ## 04 优势线下沙龙
 
@@ -45,13 +43,11 @@ title: 醒醒的产品服务清单
 
 ## 05 盖洛普入门专栏
 
-[一文讲解盖洛普入门专栏的内容](https://mp.weixin.qq.com/s/oiDz5H1qHpfPScbsErTWfQ)
+[一文讲解盖洛普入门专栏的内容](../gallup/start/get-start-column.md)
 
 ## 06 年度个人成长陪跑
 
-[第一个过万陪跑用户的天赋观察日记](https://mp.weixin.qq.com/s/Q4WbDiT6BHFozAK-2jcqqQ)
-
-[用户反馈：陪跑一年后，她开了一家自己的工作室](https://mp.weixin.qq.com/s/6_feHVAuWvTu7eWelO35Vg)
+[用户反馈：陪跑一年后，她开了一家自己的工作室](../consult/run/user-feedback.md)
 
 ## 07 企业优势培训
 
@@ -61,7 +57,7 @@ title: 醒醒的产品服务清单
 
 [攻略：如何成为一名合格的优势教练？](../gallup/coach/to-be-a-coach.md)
 
-[一文带你了解盖洛普优势教练是做什么的？](https://mp.weixin.qq.com/s/O4SCbweswSQyEO8YyvUIXA)
+[一文带你了解盖洛普优势教练是做什么的？](../gallup/coach/what-gallup-coach-is.md)
 
 ## 09 沟通专栏-长了一张会说话的嘴
 
