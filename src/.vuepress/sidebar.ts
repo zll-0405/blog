@@ -8,7 +8,9 @@ export default sidebar({
       prefix: "start/",
       collapsible: true,
       children: [
-        "get-start-column"
+        "get-start-column",
+        "start-misunderstand-one",
+        "start-misunderstand-two",
       ],
     },
     {
@@ -20,6 +22,7 @@ export default sidebar({
         "what-gallup-coach-is"
       ],
     },
+    "talent-to-strength",
   ],
 
   "/consult/": [
