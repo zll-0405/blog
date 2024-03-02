@@ -23,6 +23,7 @@ export default sidebar({
       ],
     },
     "talent-to-strength",
+    "good-wolf-warrior",
   ],
 
   "/consult/": [
