@@ -18,8 +18,9 @@ export default sidebar({
       prefix: "coach/",
       collapsible: true,
       children: [
+        "what-gallup-coach-is",
         "to-be-a-coach",
-        "what-gallup-coach-is"
+        "how-to-be-a-coach",
       ],
     },
     "talent-to-strength",
@@ -32,7 +33,8 @@ export default sidebar({
       prefix: "run/",
       collapsible: true,
       children: [
-        "user-feedback"
+        "user-feedback",
+        "express-vulnerability",
       ],
     },
     {
