@@ -62,6 +62,10 @@ export default hopeTheme({
     //   serverURL: "https://waline-comment.vuejs.press",
     // },
 
+    seo: {
+      canonical:"https://xinglife.com",
+    },
+
     components: {
       components: ["Badge", "VPCard"],
     },
