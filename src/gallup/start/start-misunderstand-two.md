@@ -5,6 +5,11 @@ category:
 tag:
   - 入门
 title: 盖洛普入门误区 006-010
+description: 盖洛普中容易混淆的概念
+head:
+  - - meta
+    - name: keywords
+      content: 盖洛普,才干
 ---
 
 *hi，你好。我是醒醒，一枚个人成长教练&优势教练，这里会分享我成为教练后的所思所想，以及用户的问答。*

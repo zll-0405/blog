@@ -6,6 +6,11 @@ tag:
   - 入门
 title: 一文讲解盖洛普入门专栏的内容
 shortTitle: 入门专栏
+description: 盖洛普入门专栏介绍
+head:
+  - - meta
+    - name: keywords
+      content: 盖洛普,盖洛普入门
 ---
 
 *hi，你好。我是醒醒，一枚个人成长教练&优势教练，这里会分享我成为教练后的所思所想，以及用户的问答。*

@@ -6,6 +6,11 @@ tag:
   - 成长
 title: 做减法：我想要＞我需要＞我可能要
 shortTitle: 如何做减法
+description: 做减法
+head:
+  - - meta
+    - name: keywords
+      content: 个人成长
 ---
 
 *hi，你好。我是醒醒，一枚个人成长教练&优势教练，这里会分享我成为教练后的所思所想，以及用户的问答，可评论区/私信与我交流。*

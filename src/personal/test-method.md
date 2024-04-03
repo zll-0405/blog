@@ -6,6 +6,11 @@ tag:
   - 成长
 title: 不敢改变的人，需要一点测试者心态
 shortTitle: 测试者心态
+description: 测试者心态
+head:
+  - - meta
+    - name: keywords
+      content: 个人成长,优势教练
 ---
 
 *hi，你好。我是醒醒，一枚个人成长教练&优势教练，这里会分享我成为教练后的所思所想，以及用户的问答，可评论区/私信与我交流。*
