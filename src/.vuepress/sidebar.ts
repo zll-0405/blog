@@ -23,8 +23,15 @@ export default sidebar({
         "how-to-be-a-coach",
       ],
     },
-    "talent-to-strength",
-    "good-wolf-warrior",
+    {
+      text: "心得",
+      prefix: "experience/",
+      collapsible: true,
+      children: [
+        "good-wolf-warrior",
+        "talent-to-strength",
+      ],
+    },
   ],
 
   "/consult/": [
@@ -42,13 +49,16 @@ export default sidebar({
       prefix: "dairy/",
       collapsible: true,
       children: [
+        "where-get-so-much-time",
         "love-method"
       ],
     },
   ],
 
   "/personal/":  [
-      "i-want",
-      "test-method",
+    "looking-for-a-partner",
+    "novice-cut-off-leeks",
+    "test-method",
+    "i-want",
   ]
 });
