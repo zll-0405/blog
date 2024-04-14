@@ -56,6 +56,7 @@ export default sidebar({
   ],
 
   "/personal/":  [
+    "infp-find-interest",
     "looking-for-a-partner",
     "novice-cut-off-leeks",
     "test-method",
