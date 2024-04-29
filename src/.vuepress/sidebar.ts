@@ -30,7 +30,8 @@ export default sidebar({
       children: [
         "good-wolf-warrior",
         "talent-to-strength",
-        "career-direction"
+        "career-direction",
+        "fruitful-growth-mindset-past-year"
       ],
     },
   ],
