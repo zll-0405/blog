@@ -63,5 +63,8 @@ export default sidebar({
     "novice-cut-off-leeks",
     "test-method",
     "i-want",
+    "how-to-make-a-good-decision",
+    "think-about-security",
+    "two-tips-worth-millions",
   ]
 });
