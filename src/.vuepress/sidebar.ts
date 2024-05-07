@@ -48,10 +48,11 @@ export default sidebar({
     },
     {
       text: "日常",
-      prefix: "dairy/",
+      prefix: "daily/",
       collapsible: true,
       children: [
         "where-get-so-much-time",
+        "start-from-close",
         "love-method"
       ],
     },
@@ -62,6 +63,7 @@ export default sidebar({
     "looking-for-a-partner",
     "novice-cut-off-leeks",
     "test-method",
+    "keep-up-the-energy",
     "i-want",
     "how-to-make-a-good-decision",
     "think-about-security",
