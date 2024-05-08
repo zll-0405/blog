@@ -36,7 +36,7 @@ description: 醒醒的产品服务清单，包括不限于：优势/个人成长
 
 ## 03 情侣解读产品
 
-[我从一对情侣用户上学到的相爱之法](../consult/dairy/love-method.md)
+[我从一对情侣用户上学到的相爱之法](../consult/daily/love-method.md)
 
 ## 04 优势线下沙龙
 
