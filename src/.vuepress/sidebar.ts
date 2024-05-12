@@ -59,6 +59,7 @@ export default sidebar({
   ],
 
   "/personal/":  [
+    "tell-something-in-birthday",
     "infp-find-interest",
     "looking-for-a-partner",
     "novice-cut-off-leeks",
